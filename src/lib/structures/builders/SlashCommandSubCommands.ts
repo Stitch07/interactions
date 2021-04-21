@@ -1,5 +1,5 @@
 import { ApplicationCommandOptionType } from 'discord-api-types/v8';
-import { use } from 'typescript-mix';
+import { mix } from 'ts-mixer';
 import { validateMaxOptionsLength, validateRequiredParameters } from './Assertions';
 import type { ToJSON } from './SlashCommandBuilder';
 import { Shared__NameAndDescription, Shared__Options } from './SlashCommandOptions';
@@ -47,8 +47,8 @@ export class SlashCommandSubCommandGroupBuilder extends Shared__NameAndDescripti
  *
  * For more information, go to https://discord.com/developers/docs/interactions/slash-commands#subcommands-and-subcommand-groups
  */
+@mix(Shared__Options, Shared__NameAndDescription)
 export class SlashCommandSubCommandBuilder implements ToJSON {
-	@use(Shared__Options, Shared__NameAndDescription)
 	protected name: string = undefined!;
 
 	protected description: string = undefined!;

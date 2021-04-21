@@ -21,7 +21,7 @@ export class SlashCommandArgs {
 	/**
 	 * The internal data that is processed
 	 */
-	protected readonly rawData: APIApplicationCommandInteractionData;
+	protected readonly rawData: Readonly<APIApplicationCommandInteractionData>;
 
 	public constructor(
 		interaction: SlashCommandInteraction,
@@ -32,6 +32,6 @@ export class SlashCommandArgs {
 		this.interaction = interaction;
 		this.command = command;
 		this.context = context;
-		this.rawData = data;
+		this.rawData = Object.freeze(data);
 	}
 }

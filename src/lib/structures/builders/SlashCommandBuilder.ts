@@ -1,11 +1,11 @@
 import type { APIApplicationCommandOption } from 'discord-api-types/v8';
-import { use } from 'typescript-mix';
+import { mix } from 'ts-mixer';
 import { validateMaxOptionsLength, validateRequiredParameters } from './Assertions';
 import { Shared__NameAndDescription, Shared__Options } from './SlashCommandOptions';
 import { SlashCommandSubCommandBuilder, SlashCommandSubCommandGroupBuilder } from './SlashCommandSubCommands';
 
+@mix(Shared__Options, Shared__NameAndDescription)
 export class SlashCommandBuilder {
-	@use(Shared__Options, Shared__NameAndDescription)
 	protected name: string = undefined!;
 
 	protected description: string = undefined!;

@@ -8,7 +8,7 @@ import type {
 	Snowflake
 } from 'discord-api-types/v8';
 import { Client, DMChannel, Guild, GuildMember, NewsChannel, TextChannel, User, WebhookClient } from 'discord.js';
-import { SlashCommandArgs } from './SlashCommandArgs';
+// import { SlashCommandArgs } from './SlashCommandArgs';
 
 export class SlashCommandInteraction {
 	/**
@@ -65,7 +65,7 @@ export class SlashCommandInteraction {
 	 *
 	 * `SlashCommandArgs` is constructed from this.
 	 */
-	public readonly rawInteractionData: APIApplicationCommandInteractionData;
+	public readonly rawInteractionData: Readonly<APIApplicationCommandInteractionData>;
 
 	/**
 	 * The command being ran in this interaction
@@ -76,7 +76,7 @@ export class SlashCommandInteraction {
 		this.id = interaction.id;
 		this.applicationID = interaction.application_id;
 		this.type = interaction.type;
-		this.rawInteractionData = interaction.data;
+		this.rawInteractionData = Object.freeze(interaction.data);
 		this.channelID = interaction.channel_id;
 		this.token = interaction.token;
 		this.guildID = isApplicationCommandGuildInteraction(interaction) ? interaction.guild_id : null;
