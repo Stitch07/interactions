@@ -83,9 +83,9 @@ jobs:
           git commit -m "build: tsc build for ${GITHUB_SHA}" || true
           git push origin $TARGET_BRANCH
         env:
-          # GITHUB_TOKEN: ${{ secrets.SKYRA_TOKEN }}
-          GITHUB_ACTOR: github-actions[bot]
-          GITHUB_EMAIL: 41898282+github-actions[bot]@users.noreply.github.com
+          GITHUB_TOKEN: ${{ secrets.SKYRA_TOKEN }}
+          GITHUB_ACTOR: NM-EEA-Y
+          GITHUB_EMAIL: contact@skyra.pw
 
   Docgen:
     name: Docgen
@@ -138,6 +138,6 @@ jobs:
           git commit -m "docs: api docs build for ${GITHUB_SHA}" || true
           git push origin $TARGET_BRANCH
         env:
-          # GITHUB_TOKEN: ${{ secrets.SKYRA_TOKEN }}
-          GITHUB_ACTOR: github-actions[bot]
-          GITHUB_EMAIL: 41898282+github-actions[bot]@users.noreply.github.com
+          GITHUB_TOKEN: ${{ secrets.SKYRA_TOKEN }}
+          GITHUB_ACTOR: NM-EEA-Y
+          GITHUB_EMAIL: contact@skyra.pw
