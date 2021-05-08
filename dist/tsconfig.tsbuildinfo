@@ -466,7 +466,7 @@
         "signature": "ffa9a6756f89a0fc1020acfda4330a5b6362df5445dca833411e940ded2ff7d1",
         "affectsGlobalScope": false
       },
-      "../node_modules/lexure/dist/types/parseroutput.d.ts": {
+      "../node_modules/lexure/dist/types/parserOutput.d.ts": {
         "version": "67c83af87c42a3f0a1dfed03c6a181c511b1dc940d788bd5e21a9c6b15b5e29d",
         "signature": "67c83af87c42a3f0a1dfed03c6a181c511b1dc940d788bd5e21a9c6b15b5e29d",
         "affectsGlobalScope": false
@@ -491,7 +491,7 @@
         "signature": "3591f3d233931b519ab37f4cdecdebe7a57b94ffbd1b330412522f508750a70c",
         "affectsGlobalScope": false
       },
-      "../node_modules/lexure/dist/types/loopaction.d.ts": {
+      "../node_modules/lexure/dist/types/loopAction.d.ts": {
         "version": "2276b1681c76d1a5165695896ed10106197946f0912984d9f42f6a014f25b347",
         "signature": "2276b1681c76d1a5165695896ed10106197946f0912984d9f42f6a014f25b347",
         "affectsGlobalScope": false
@@ -566,7 +566,7 @@
         "signature": "475320b8c7ed832375a810c6e44f0547facdca15e850ae2f8858182cf1e31a1b",
         "affectsGlobalScope": false
       },
-      "../node_modules/discord-api-types/rest/v8/auditlog.d.ts": {
+      "../node_modules/discord-api-types/rest/v8/auditLog.d.ts": {
         "version": "8e8da3a50207a1cb1baee99e54c409491707989fdbe197b1f44a2d126b851a9d",
         "signature": "8e8da3a50207a1cb1baee99e54c409491707989fdbe197b1f44a2d126b851a9d",
         "affectsGlobalScope": false
@@ -656,7 +656,7 @@
         "signature": "883578ad55b202a56fbc682137dabd6c08272446adc16624da0dd629103326a8",
         "affectsGlobalScope": false
       },
-      "../node_modules/discord-api-types/payloads/v8/auditlog.d.ts": {
+      "../node_modules/discord-api-types/payloads/v8/auditLog.d.ts": {
         "version": "db65b4d74414d210abc1122c16ef9d954d726dc8f0639c2f0fdc391f57a3188f",
         "signature": "db65b4d74414d210abc1122c16ef9d954d726dc8f0639c2f0fdc391f57a3188f",
         "affectsGlobalScope": false
@@ -1031,47 +1031,47 @@
         "signature": "052adb5b969787ca6ff3c098f28d260a1fd21246a4ccae321ed88e73ac9f107d",
         "affectsGlobalScope": false
       },
-      "../src/lib/structures/builders/assertions.ts": {
+      "../src/lib/structures/builders/Assertions.ts": {
         "version": "ff0f9ac9faf071dba8f1b1f58893a4f2e5dfe0985a69abdfad0c88e8a6f67cba",
         "signature": "92c506a05d1018da9fe7816567ec14329d7ed5bf73704cf7733363eab92764e7",
         "affectsGlobalScope": false
       },
-      "../src/lib/structures/builders/slashcommandoptions.ts": {
+      "../src/lib/structures/builders/SlashCommandOptions.ts": {
         "version": "93d735e371c3fa7157efae4bf2a94fc962b77ceac6932934db40648d2922cfc9",
         "signature": "9ddeffc80fc006012f8dd0730de992e08b9219387b56076421fbd42599d0e005",
         "affectsGlobalScope": false
       },
-      "../src/lib/structures/builders/slashcommandsubcommands.ts": {
+      "../src/lib/structures/builders/SlashCommandSubCommands.ts": {
         "version": "9a6d49f83699d7104caf7229828a1eeda6420b42b95f758e33842fcc2a09d31c",
         "signature": "47917a5c26685f7d859c3789b520ad2ec2c718b4dbbbee89846afaccf0c0ffa2",
         "affectsGlobalScope": false
       },
-      "../src/lib/structures/builders/slashcommandbuilder.ts": {
+      "../src/lib/structures/builders/SlashCommandBuilder.ts": {
         "version": "92bc128bfb5ae9a61e71aa14d19f8445b7e54f133656ec0f5a86c3ad6b5c3415",
         "signature": "77510594b145360887952d0ab7d87f18476a27fe36506e2f9b4854be291b9068",
         "affectsGlobalScope": false
       },
-      "../src/lib/structures/interactions/slashcommandinteraction.ts": {
+      "../src/lib/structures/interactions/SlashCommandInteraction.ts": {
         "version": "515a6c9c06af22cc203a05c63e713b4a6a79caa84bf6f58582944895f7ff2a96",
         "signature": "2d8404a5b6e6382cf61631bd677c8aa6cfc1d084ff4df6f5e9a7f06b3d9fa796",
         "affectsGlobalScope": false
       },
-      "../src/lib/structures/interactions/slashcommandargs.ts": {
+      "../src/lib/structures/interactions/SlashCommandArgs.ts": {
         "version": "5aa77b23ef7dae18fc11e376131c4e1d514aa949a4f77dff4cf94c3ff9dd22c3",
         "signature": "4a0407dd718a3fccab38f1a91c037c02040a37ff85bc201a0fc9a5509b3abf66",
         "affectsGlobalScope": false
       },
-      "../src/lib/utils/symbols.ts": {
+      "../src/lib/utils/Symbols.ts": {
         "version": "41c23819922cf88ca42e609e66195d803d3b3894d4227b83b3272bbed472d761",
         "signature": "bd5e47f2a261ad096c45ebbe667d1ba8c6e59cfc9df7edf7e014adc67ed79a15",
         "affectsGlobalScope": false
       },
-      "../src/lib/utils/events.ts": {
+      "../src/lib/utils/Events.ts": {
         "version": "a405bc4877efa82903a97df76da3eb4d88861990d97644e09064e9551479e30d",
         "signature": "3f32139cb85a36689ca512f2fae409cb8719a6a420be1c37e2d7237208d45566",
         "affectsGlobalScope": false
       },
-      "../src/lib/structures/extensions/slashcommandpreconditionstore.ts": {
+      "../src/lib/structures/extensions/SlashCommandPreconditionStore.ts": {
         "version": "504f4de47be6993db65723479ab20c4cda4128431913c774fa5b5026b70d0e91",
         "signature": "452a73ed225b8252750459148f3645327121e5acd84f7da08a7fed5de3901c1e",
         "affectsGlobalScope": false
@@ -1081,7 +1081,7 @@
         "signature": "10ca85b93cdaca5d2dee8ccb98a9ebac121f3d44b2df1c9f3a18f7e504bd574f",
         "affectsGlobalScope": false
       },
-      "../src/lib/structures/extensions/slashcommandpreconditioncontainerextensions.ts": {
+      "../src/lib/structures/extensions/SlashCommandPreconditionContainerExtensions.ts": {
         "version": "97a9114f1b0d670785ecf0bb4d9c2547625d517cc3b69f7ebf9518431d41a78a",
         "signature": "bf8b8726f992e6ef1fb6e2aceeb1e0c2d97064803f2cc5c51ade85db58e15971",
         "affectsGlobalScope": false
@@ -1091,12 +1091,12 @@
         "signature": "d9b7a61d024f072e0dda8234ae6a370fc7f791f3d7fb5909c84404d102291b21",
         "affectsGlobalScope": false
       },
-      "../src/events/slashcommandrawinteractioncreate.ts": {
+      "../src/events/SlashCommandRawInteractionCreate.ts": {
         "version": "bc0cfc9d8ddec2faaa7ca1102d51f74c834b69e7ef188d948c4ee13dedf2ca81",
         "signature": "64f2de46afc9382b1f05698f917fc525b0d6aeba9e0a845121f278b297a2fb55",
         "affectsGlobalScope": false
       },
-      "../src/events/slashcommandready.ts": {
+      "../src/events/SlashCommandReady.ts": {
         "version": "0c642e3e78ddcb40c99b18562e6fc672dd22de237d5f80f5c71de27260a581df",
         "signature": "a02c3b7512883b97ec29cf0938aa5c068bc803eaa5a9c2ac94e14a3680bb6ab4",
         "affectsGlobalScope": false
@@ -1151,7 +1151,7 @@
         "signature": "905c3e8f7ddaa6c391b60c05b2f4c3931d7127ad717a080359db3df510b7bdab",
         "affectsGlobalScope": false
       },
-      "../node_modules/jest-diff/build/cleanupsemantic.d.ts": {
+      "../node_modules/jest-diff/build/cleanupSemantic.d.ts": {
         "version": "d8aab31ba8e618cc3eea10b0945de81cb93b7e8150a013a482332263b9305322",
         "signature": "d8aab31ba8e618cc3eea10b0945de81cb93b7e8150a013a482332263b9305322",
         "affectsGlobalScope": false
@@ -1161,12 +1161,12 @@
         "signature": "69da61a7b5093dac77fa3bec8be95dcf9a74c95a0e9161edb98bb24e30e439d2",
         "affectsGlobalScope": false
       },
-      "../node_modules/jest-diff/build/difflines.d.ts": {
+      "../node_modules/jest-diff/build/diffLines.d.ts": {
         "version": "561eca7a381b96d6ccac6e4061e6d2ae53f5bc44203f3fd9f5b26864c32ae6e9",
         "signature": "561eca7a381b96d6ccac6e4061e6d2ae53f5bc44203f3fd9f5b26864c32ae6e9",
         "affectsGlobalScope": false
       },
-      "../node_modules/jest-diff/build/printdiffs.d.ts": {
+      "../node_modules/jest-diff/build/printDiffs.d.ts": {
         "version": "62ea38627e3ebab429f7616812a9394d327c2bc271003dfba985de9b4137369f",
         "signature": "62ea38627e3ebab429f7616812a9394d327c2bc271003dfba985de9b4137369f",
         "affectsGlobalScope": false
@@ -1491,7 +1491,7 @@
         "../node_modules/discord-api-types/globals.d.ts",
         "../node_modules/discord-api-types/payloads/v8/index.d.ts"
       ],
-      "../node_modules/discord-api-types/payloads/v8/auditlog.d.ts": [
+      "../node_modules/discord-api-types/payloads/v8/auditLog.d.ts": [
         "../node_modules/discord-api-types/globals.d.ts",
         "../node_modules/discord-api-types/payloads/v8/channel.d.ts",
         "../node_modules/discord-api-types/payloads/v8/guild.d.ts",
@@ -1528,7 +1528,7 @@
         "../node_modules/discord-api-types/payloads/v8/voice.d.ts"
       ],
       "../node_modules/discord-api-types/payloads/v8/index.d.ts": [
-        "../node_modules/discord-api-types/payloads/v8/auditlog.d.ts",
+        "../node_modules/discord-api-types/payloads/v8/auditLog.d.ts",
         "../node_modules/discord-api-types/payloads/v8/channel.d.ts",
         "../node_modules/discord-api-types/payloads/v8/emoji.d.ts",
         "../node_modules/discord-api-types/payloads/v8/gateway.d.ts",
@@ -1583,9 +1583,9 @@
         "../node_modules/discord-api-types/globals.d.ts",
         "../node_modules/discord-api-types/payloads/v8/index.d.ts"
       ],
-      "../node_modules/discord-api-types/rest/v8/auditlog.d.ts": [
+      "../node_modules/discord-api-types/rest/v8/auditLog.d.ts": [
         "../node_modules/discord-api-types/globals.d.ts",
-        "../node_modules/discord-api-types/payloads/v8/auditlog.d.ts"
+        "../node_modules/discord-api-types/payloads/v8/auditLog.d.ts"
       ],
       "../node_modules/discord-api-types/rest/v8/channel.d.ts": [
         "../node_modules/discord-api-types/globals.d.ts",
@@ -1606,7 +1606,7 @@
       "../node_modules/discord-api-types/rest/v8/index.d.ts": [
         "../node_modules/discord-api-types/globals.d.ts",
         "../node_modules/discord-api-types/rest/common.d.ts",
-        "../node_modules/discord-api-types/rest/v8/auditlog.d.ts",
+        "../node_modules/discord-api-types/rest/v8/auditLog.d.ts",
         "../node_modules/discord-api-types/rest/v8/channel.d.ts",
         "../node_modules/discord-api-types/rest/v8/emoji.d.ts",
         "../node_modules/discord-api-types/rest/v8/gateway.d.ts",
@@ -1661,34 +1661,34 @@
         "../node_modules/@types/node/fs.d.ts",
         "../node_modules/@types/node/stream.d.ts"
       ],
-      "../node_modules/jest-diff/build/difflines.d.ts": [
-        "../node_modules/jest-diff/build/cleanupsemantic.d.ts",
+      "../node_modules/jest-diff/build/diffLines.d.ts": [
+        "../node_modules/jest-diff/build/cleanupSemantic.d.ts",
         "../node_modules/jest-diff/build/types.d.ts"
       ],
       "../node_modules/jest-diff/build/index.d.ts": [
-        "../node_modules/jest-diff/build/cleanupsemantic.d.ts",
-        "../node_modules/jest-diff/build/difflines.d.ts",
-        "../node_modules/jest-diff/build/printdiffs.d.ts",
+        "../node_modules/jest-diff/build/cleanupSemantic.d.ts",
+        "../node_modules/jest-diff/build/diffLines.d.ts",
+        "../node_modules/jest-diff/build/printDiffs.d.ts",
         "../node_modules/jest-diff/build/types.d.ts"
       ],
-      "../node_modules/jest-diff/build/printdiffs.d.ts": [
-        "../node_modules/jest-diff/build/cleanupsemantic.d.ts",
+      "../node_modules/jest-diff/build/printDiffs.d.ts": [
+        "../node_modules/jest-diff/build/cleanupSemantic.d.ts",
         "../node_modules/jest-diff/build/types.d.ts"
       ],
       "../node_modules/lexure/dist/types/args.d.ts": [
         "../node_modules/lexure/dist/types/option.d.ts",
-        "../node_modules/lexure/dist/types/parseroutput.d.ts",
+        "../node_modules/lexure/dist/types/parserOutput.d.ts",
         "../node_modules/lexure/dist/types/result.d.ts",
         "../node_modules/lexure/dist/types/tokens.d.ts"
       ],
       "../node_modules/lexure/dist/types/index.d.ts": [
         "../node_modules/lexure/dist/types/args.d.ts",
         "../node_modules/lexure/dist/types/lexer.d.ts",
-        "../node_modules/lexure/dist/types/loopaction.d.ts",
+        "../node_modules/lexure/dist/types/loopAction.d.ts",
         "../node_modules/lexure/dist/types/loops.d.ts",
         "../node_modules/lexure/dist/types/option.d.ts",
         "../node_modules/lexure/dist/types/parser.d.ts",
-        "../node_modules/lexure/dist/types/parseroutput.d.ts",
+        "../node_modules/lexure/dist/types/parserOutput.d.ts",
         "../node_modules/lexure/dist/types/result.d.ts",
         "../node_modules/lexure/dist/types/tokens.d.ts",
         "../node_modules/lexure/dist/types/unordered.d.ts",
@@ -1698,19 +1698,19 @@
         "../node_modules/lexure/dist/types/tokens.d.ts"
       ],
       "../node_modules/lexure/dist/types/loops.d.ts": [
-        "../node_modules/lexure/dist/types/loopaction.d.ts",
+        "../node_modules/lexure/dist/types/loopAction.d.ts",
         "../node_modules/lexure/dist/types/result.d.ts"
       ],
       "../node_modules/lexure/dist/types/parser.d.ts": [
-        "../node_modules/lexure/dist/types/parseroutput.d.ts",
+        "../node_modules/lexure/dist/types/parserOutput.d.ts",
         "../node_modules/lexure/dist/types/tokens.d.ts",
         "../node_modules/lexure/dist/types/unordered.d.ts"
       ],
-      "../node_modules/lexure/dist/types/parseroutput.d.ts": [
+      "../node_modules/lexure/dist/types/parserOutput.d.ts": [
         "../node_modules/lexure/dist/types/tokens.d.ts"
       ],
       "../node_modules/lexure/dist/types/util.d.ts": [
-        "../node_modules/lexure/dist/types/loopaction.d.ts",
+        "../node_modules/lexure/dist/types/loopAction.d.ts",
         "../node_modules/lexure/dist/types/option.d.ts",
         "../node_modules/lexure/dist/types/result.d.ts"
       ],
@@ -1923,89 +1923,89 @@
       ],
       "../src/index.ts": [
         "../node_modules/tslib/tslib.d.ts",
-        "../src/lib/structures/builders/assertions.ts",
-        "../src/lib/structures/builders/slashcommandbuilder.ts",
-        "../src/lib/structures/builders/slashcommandoptions.ts",
-        "../src/lib/structures/builders/slashcommandsubcommands.ts",
-        "../src/lib/structures/extensions/slashcommandpreconditionstore.ts",
-        "../src/lib/utils/events.ts",
-        "../src/lib/utils/symbols.ts"
+        "../src/lib/structures/builders/Assertions.ts",
+        "../src/lib/structures/builders/SlashCommandBuilder.ts",
+        "../src/lib/structures/builders/SlashCommandOptions.ts",
+        "../src/lib/structures/builders/SlashCommandSubCommands.ts",
+        "../src/lib/structures/extensions/SlashCommandPreconditionStore.ts",
+        "../src/lib/utils/Events.ts",
+        "../src/lib/utils/Symbols.ts"
       ],
-      "../src/lib/structures/builders/assertions.ts": [
+      "../src/lib/structures/builders/Assertions.ts": [
         "../node_modules/discord-api-types/v8.d.ts",
         "../node_modules/ow/dist/index.d.ts",
         "../node_modules/tslib/tslib.d.ts",
-        "../src/lib/structures/builders/slashcommandbuilder.ts"
+        "../src/lib/structures/builders/SlashCommandBuilder.ts"
       ],
-      "../src/lib/structures/builders/slashcommandbuilder.ts": [
+      "../src/lib/structures/builders/SlashCommandBuilder.ts": [
         "../node_modules/discord-api-types/v8.d.ts",
         "../node_modules/ts-mixer/dist/types/index.d.ts",
         "../node_modules/tslib/tslib.d.ts",
-        "../src/lib/structures/builders/assertions.ts",
-        "../src/lib/structures/builders/slashcommandoptions.ts",
-        "../src/lib/structures/builders/slashcommandsubcommands.ts"
+        "../src/lib/structures/builders/Assertions.ts",
+        "../src/lib/structures/builders/SlashCommandOptions.ts",
+        "../src/lib/structures/builders/SlashCommandSubCommands.ts"
       ],
-      "../src/lib/structures/builders/slashcommandoptions.ts": [
+      "../src/lib/structures/builders/SlashCommandOptions.ts": [
         "../node_modules/discord-api-types/v8.d.ts",
         "../node_modules/ow/dist/index.d.ts",
         "../node_modules/tslib/tslib.d.ts",
-        "../src/lib/structures/builders/assertions.ts",
-        "../src/lib/structures/builders/slashcommandbuilder.ts"
+        "../src/lib/structures/builders/Assertions.ts",
+        "../src/lib/structures/builders/SlashCommandBuilder.ts"
       ],
-      "../src/lib/structures/builders/slashcommandsubcommands.ts": [
+      "../src/lib/structures/builders/SlashCommandSubCommands.ts": [
         "../node_modules/discord-api-types/v8.d.ts",
         "../node_modules/ts-mixer/dist/types/index.d.ts",
         "../node_modules/tslib/tslib.d.ts",
-        "../src/lib/structures/builders/assertions.ts",
-        "../src/lib/structures/builders/slashcommandbuilder.ts",
-        "../src/lib/structures/builders/slashcommandoptions.ts"
+        "../src/lib/structures/builders/Assertions.ts",
+        "../src/lib/structures/builders/SlashCommandBuilder.ts",
+        "../src/lib/structures/builders/SlashCommandOptions.ts"
       ],
-      "../src/lib/structures/extensions/slashcommandpreconditioncontainerextensions.ts": [
+      "../src/lib/structures/extensions/SlashCommandPreconditionContainerExtensions.ts": [
         "../node_modules/@sapphire/framework/dist/index.d.ts",
         "../node_modules/tslib/tslib.d.ts",
-        "../src/lib/structures/extensions/slashcommandpreconditionstore.ts",
-        "../src/lib/structures/interactions/slashcommandinteraction.ts",
-        "../src/lib/utils/symbols.ts"
+        "../src/lib/structures/extensions/SlashCommandPreconditionStore.ts",
+        "../src/lib/structures/interactions/SlashCommandInteraction.ts",
+        "../src/lib/utils/Symbols.ts"
       ],
-      "../src/lib/structures/extensions/slashcommandpreconditionstore.ts": [
+      "../src/lib/structures/extensions/SlashCommandPreconditionStore.ts": [
         "../node_modules/@sapphire/framework/dist/index.d.ts",
         "../node_modules/tslib/tslib.d.ts",
-        "../src/lib/structures/extensions/slashcommandpreconditioncontainerextensions.ts",
-        "../src/lib/structures/interactions/slashcommandinteraction.ts",
-        "../src/lib/utils/symbols.ts"
+        "../src/lib/structures/extensions/SlashCommandPreconditionContainerExtensions.ts",
+        "../src/lib/structures/interactions/SlashCommandInteraction.ts",
+        "../src/lib/utils/Symbols.ts"
       ],
-      "../src/lib/structures/interactions/slashcommandargs.ts": [
+      "../src/lib/structures/interactions/SlashCommandArgs.ts": [
         "../node_modules/@sapphire/framework/dist/index.d.ts",
         "../node_modules/discord-api-types/v8.d.ts",
         "../node_modules/tslib/tslib.d.ts",
-        "../src/lib/structures/interactions/slashcommandinteraction.ts"
+        "../src/lib/structures/interactions/SlashCommandInteraction.ts"
       ],
-      "../src/lib/structures/interactions/slashcommandinteraction.ts": [
+      "../src/lib/structures/interactions/SlashCommandInteraction.ts": [
         "../node_modules/discord-api-types/utils/v8.d.ts",
         "../node_modules/discord-api-types/v8.d.ts",
         "../node_modules/discord.js/typings/index.d.ts",
         "../node_modules/tslib/tslib.d.ts"
       ],
-      "../src/lib/utils/events.ts": [
+      "../src/lib/utils/Events.ts": [
         "../node_modules/@sapphire/framework/dist/index.d.ts",
         "../node_modules/discord-api-types/v8.d.ts",
         "../node_modules/tslib/tslib.d.ts",
-        "../src/lib/structures/interactions/slashcommandinteraction.ts"
+        "../src/lib/structures/interactions/SlashCommandInteraction.ts"
       ],
-      "../src/lib/utils/symbols.ts": [
+      "../src/lib/utils/Symbols.ts": [
         "../node_modules/@sapphire/framework/dist/index.d.ts",
         "../node_modules/discord-api-types/v8.d.ts",
         "../node_modules/tslib/tslib.d.ts",
-        "../src/lib/structures/builders/slashcommandbuilder.ts",
-        "../src/lib/structures/interactions/slashcommandargs.ts",
-        "../src/lib/structures/interactions/slashcommandinteraction.ts"
+        "../src/lib/structures/builders/SlashCommandBuilder.ts",
+        "../src/lib/structures/interactions/SlashCommandArgs.ts",
+        "../src/lib/structures/interactions/SlashCommandInteraction.ts"
       ],
       "../src/register-discordjs.ts": [
         "../node_modules/@sapphire/framework/dist/index.d.ts",
         "../node_modules/@types/node/path.d.ts",
         "../node_modules/tslib/tslib.d.ts",
         "../src/index.ts",
-        "../src/lib/structures/extensions/slashcommandpreconditioncontainerextensions.ts"
+        "../src/lib/structures/extensions/SlashCommandPreconditionContainerExtensions.ts"
       ]
     },
     "exportedModulesMap": {
@@ -2225,7 +2225,7 @@
         "../node_modules/discord-api-types/globals.d.ts",
         "../node_modules/discord-api-types/payloads/v8/index.d.ts"
       ],
-      "../node_modules/discord-api-types/payloads/v8/auditlog.d.ts": [
+      "../node_modules/discord-api-types/payloads/v8/auditLog.d.ts": [
         "../node_modules/discord-api-types/globals.d.ts",
         "../node_modules/discord-api-types/payloads/v8/channel.d.ts",
         "../node_modules/discord-api-types/payloads/v8/guild.d.ts",
@@ -2262,7 +2262,7 @@
         "../node_modules/discord-api-types/payloads/v8/voice.d.ts"
       ],
       "../node_modules/discord-api-types/payloads/v8/index.d.ts": [
-        "../node_modules/discord-api-types/payloads/v8/auditlog.d.ts",
+        "../node_modules/discord-api-types/payloads/v8/auditLog.d.ts",
         "../node_modules/discord-api-types/payloads/v8/channel.d.ts",
         "../node_modules/discord-api-types/payloads/v8/emoji.d.ts",
         "../node_modules/discord-api-types/payloads/v8/gateway.d.ts",
@@ -2317,9 +2317,9 @@
         "../node_modules/discord-api-types/globals.d.ts",
         "../node_modules/discord-api-types/payloads/v8/index.d.ts"
       ],
-      "../node_modules/discord-api-types/rest/v8/auditlog.d.ts": [
+      "../node_modules/discord-api-types/rest/v8/auditLog.d.ts": [
         "../node_modules/discord-api-types/globals.d.ts",
-        "../node_modules/discord-api-types/payloads/v8/auditlog.d.ts"
+        "../node_modules/discord-api-types/payloads/v8/auditLog.d.ts"
       ],
       "../node_modules/discord-api-types/rest/v8/channel.d.ts": [
         "../node_modules/discord-api-types/globals.d.ts",
@@ -2340,7 +2340,7 @@
       "../node_modules/discord-api-types/rest/v8/index.d.ts": [
         "../node_modules/discord-api-types/globals.d.ts",
         "../node_modules/discord-api-types/rest/common.d.ts",
-        "../node_modules/discord-api-types/rest/v8/auditlog.d.ts",
+        "../node_modules/discord-api-types/rest/v8/auditLog.d.ts",
         "../node_modules/discord-api-types/rest/v8/channel.d.ts",
         "../node_modules/discord-api-types/rest/v8/emoji.d.ts",
         "../node_modules/discord-api-types/rest/v8/gateway.d.ts",
@@ -2395,34 +2395,34 @@
         "../node_modules/@types/node/fs.d.ts",
         "../node_modules/@types/node/stream.d.ts"
       ],
-      "../node_modules/jest-diff/build/difflines.d.ts": [
-        "../node_modules/jest-diff/build/cleanupsemantic.d.ts",
+      "../node_modules/jest-diff/build/diffLines.d.ts": [
+        "../node_modules/jest-diff/build/cleanupSemantic.d.ts",
         "../node_modules/jest-diff/build/types.d.ts"
       ],
       "../node_modules/jest-diff/build/index.d.ts": [
-        "../node_modules/jest-diff/build/cleanupsemantic.d.ts",
-        "../node_modules/jest-diff/build/difflines.d.ts",
-        "../node_modules/jest-diff/build/printdiffs.d.ts",
+        "../node_modules/jest-diff/build/cleanupSemantic.d.ts",
+        "../node_modules/jest-diff/build/diffLines.d.ts",
+        "../node_modules/jest-diff/build/printDiffs.d.ts",
         "../node_modules/jest-diff/build/types.d.ts"
       ],
-      "../node_modules/jest-diff/build/printdiffs.d.ts": [
-        "../node_modules/jest-diff/build/cleanupsemantic.d.ts",
+      "../node_modules/jest-diff/build/printDiffs.d.ts": [
+        "../node_modules/jest-diff/build/cleanupSemantic.d.ts",
         "../node_modules/jest-diff/build/types.d.ts"
       ],
       "../node_modules/lexure/dist/types/args.d.ts": [
         "../node_modules/lexure/dist/types/option.d.ts",
-        "../node_modules/lexure/dist/types/parseroutput.d.ts",
+        "../node_modules/lexure/dist/types/parserOutput.d.ts",
         "../node_modules/lexure/dist/types/result.d.ts",
         "../node_modules/lexure/dist/types/tokens.d.ts"
       ],
       "../node_modules/lexure/dist/types/index.d.ts": [
         "../node_modules/lexure/dist/types/args.d.ts",
         "../node_modules/lexure/dist/types/lexer.d.ts",
-        "../node_modules/lexure/dist/types/loopaction.d.ts",
+        "../node_modules/lexure/dist/types/loopAction.d.ts",
         "../node_modules/lexure/dist/types/loops.d.ts",
         "../node_modules/lexure/dist/types/option.d.ts",
         "../node_modules/lexure/dist/types/parser.d.ts",
-        "../node_modules/lexure/dist/types/parseroutput.d.ts",
+        "../node_modules/lexure/dist/types/parserOutput.d.ts",
         "../node_modules/lexure/dist/types/result.d.ts",
         "../node_modules/lexure/dist/types/tokens.d.ts",
         "../node_modules/lexure/dist/types/unordered.d.ts",
@@ -2432,19 +2432,19 @@
         "../node_modules/lexure/dist/types/tokens.d.ts"
       ],
       "../node_modules/lexure/dist/types/loops.d.ts": [
-        "../node_modules/lexure/dist/types/loopaction.d.ts",
+        "../node_modules/lexure/dist/types/loopAction.d.ts",
         "../node_modules/lexure/dist/types/result.d.ts"
       ],
       "../node_modules/lexure/dist/types/parser.d.ts": [
-        "../node_modules/lexure/dist/types/parseroutput.d.ts",
+        "../node_modules/lexure/dist/types/parserOutput.d.ts",
         "../node_modules/lexure/dist/types/tokens.d.ts",
         "../node_modules/lexure/dist/types/unordered.d.ts"
       ],
-      "../node_modules/lexure/dist/types/parseroutput.d.ts": [
+      "../node_modules/lexure/dist/types/parserOutput.d.ts": [
         "../node_modules/lexure/dist/types/tokens.d.ts"
       ],
       "../node_modules/lexure/dist/types/util.d.ts": [
-        "../node_modules/lexure/dist/types/loopaction.d.ts",
+        "../node_modules/lexure/dist/types/loopAction.d.ts",
         "../node_modules/lexure/dist/types/option.d.ts",
         "../node_modules/lexure/dist/types/result.d.ts"
       ],
@@ -2656,68 +2656,68 @@
         "../node_modules/type-fest/ts41/delimiter-case.d.ts"
       ],
       "../src/index.ts": [
-        "../src/lib/structures/builders/assertions.ts",
-        "../src/lib/structures/builders/slashcommandbuilder.ts",
-        "../src/lib/structures/builders/slashcommandoptions.ts",
-        "../src/lib/structures/builders/slashcommandsubcommands.ts",
-        "../src/lib/structures/extensions/slashcommandpreconditionstore.ts",
-        "../src/lib/utils/events.ts",
-        "../src/lib/utils/symbols.ts"
+        "../src/lib/structures/builders/Assertions.ts",
+        "../src/lib/structures/builders/SlashCommandBuilder.ts",
+        "../src/lib/structures/builders/SlashCommandOptions.ts",
+        "../src/lib/structures/builders/SlashCommandSubCommands.ts",
+        "../src/lib/structures/extensions/SlashCommandPreconditionStore.ts",
+        "../src/lib/utils/Events.ts",
+        "../src/lib/utils/Symbols.ts"
       ],
-      "../src/lib/structures/builders/assertions.ts": [
+      "../src/lib/structures/builders/Assertions.ts": [
         "../node_modules/discord-api-types/v8.d.ts",
-        "../src/lib/structures/builders/slashcommandbuilder.ts"
+        "../src/lib/structures/builders/SlashCommandBuilder.ts"
       ],
-      "../src/lib/structures/builders/slashcommandbuilder.ts": [
+      "../src/lib/structures/builders/SlashCommandBuilder.ts": [
         "../node_modules/discord-api-types/v8.d.ts",
-        "../src/lib/structures/builders/slashcommandoptions.ts",
-        "../src/lib/structures/builders/slashcommandsubcommands.ts"
+        "../src/lib/structures/builders/SlashCommandOptions.ts",
+        "../src/lib/structures/builders/SlashCommandSubCommands.ts"
       ],
-      "../src/lib/structures/builders/slashcommandoptions.ts": [
+      "../src/lib/structures/builders/SlashCommandOptions.ts": [
         "../node_modules/discord-api-types/v8.d.ts",
-        "../src/lib/structures/builders/slashcommandbuilder.ts"
+        "../src/lib/structures/builders/SlashCommandBuilder.ts"
       ],
-      "../src/lib/structures/builders/slashcommandsubcommands.ts": [
+      "../src/lib/structures/builders/SlashCommandSubCommands.ts": [
         "../node_modules/discord-api-types/v8.d.ts",
-        "../src/lib/structures/builders/slashcommandbuilder.ts",
-        "../src/lib/structures/builders/slashcommandoptions.ts"
+        "../src/lib/structures/builders/SlashCommandBuilder.ts",
+        "../src/lib/structures/builders/SlashCommandOptions.ts"
       ],
-      "../src/lib/structures/extensions/slashcommandpreconditioncontainerextensions.ts": [
+      "../src/lib/structures/extensions/SlashCommandPreconditionContainerExtensions.ts": [
         "../node_modules/@sapphire/framework/dist/index.d.ts",
         "../node_modules/@sapphire/pieces/dist/index.d.ts",
         "../node_modules/@types/node/url.d.ts",
         "../node_modules/discord.js/typings/index.d.ts",
         "../node_modules/lexure/dist/types/index.d.ts",
-        "../src/lib/structures/interactions/slashcommandinteraction.ts"
+        "../src/lib/structures/interactions/SlashCommandInteraction.ts"
       ],
-      "../src/lib/structures/extensions/slashcommandpreconditionstore.ts": [
+      "../src/lib/structures/extensions/SlashCommandPreconditionStore.ts": [
         "../node_modules/@sapphire/framework/dist/index.d.ts",
-        "../src/lib/structures/interactions/slashcommandinteraction.ts"
+        "../src/lib/structures/interactions/SlashCommandInteraction.ts"
       ],
-      "../src/lib/structures/interactions/slashcommandargs.ts": [
+      "../src/lib/structures/interactions/SlashCommandArgs.ts": [
         "../node_modules/@sapphire/framework/dist/index.d.ts",
         "../node_modules/discord-api-types/v8.d.ts",
-        "../src/lib/structures/interactions/slashcommandinteraction.ts"
+        "../src/lib/structures/interactions/SlashCommandInteraction.ts"
       ],
-      "../src/lib/structures/interactions/slashcommandinteraction.ts": [
+      "../src/lib/structures/interactions/SlashCommandInteraction.ts": [
         "../node_modules/discord-api-types/v8.d.ts",
         "../node_modules/discord.js/typings/index.d.ts"
       ],
-      "../src/lib/utils/events.ts": [
+      "../src/lib/utils/Events.ts": [
         "../node_modules/@sapphire/framework/dist/index.d.ts",
         "../node_modules/discord-api-types/v8.d.ts",
-        "../src/lib/structures/interactions/slashcommandinteraction.ts"
+        "../src/lib/structures/interactions/SlashCommandInteraction.ts"
       ],
-      "../src/lib/utils/symbols.ts": [
+      "../src/lib/utils/Symbols.ts": [
         "../node_modules/@sapphire/framework/dist/index.d.ts",
         "../node_modules/discord-api-types/v8.d.ts",
-        "../src/lib/structures/builders/slashcommandbuilder.ts",
-        "../src/lib/structures/interactions/slashcommandargs.ts",
-        "../src/lib/structures/interactions/slashcommandinteraction.ts"
+        "../src/lib/structures/builders/SlashCommandBuilder.ts",
+        "../src/lib/structures/interactions/SlashCommandArgs.ts",
+        "../src/lib/structures/interactions/SlashCommandInteraction.ts"
       ],
       "../src/register-discordjs.ts": [
         "../node_modules/@sapphire/framework/dist/index.d.ts",
-        "../src/lib/structures/extensions/slashcommandpreconditioncontainerextensions.ts"
+        "../src/lib/structures/extensions/SlashCommandPreconditionContainerExtensions.ts"
       ]
     },
     "semanticDiagnosticsPerFile": [
@@ -2793,7 +2793,7 @@
       "../node_modules/discord-api-types/gateway/common.d.ts",
       "../node_modules/discord-api-types/gateway/v8.d.ts",
       "../node_modules/discord-api-types/globals.d.ts",
-      "../node_modules/discord-api-types/payloads/v8/auditlog.d.ts",
+      "../node_modules/discord-api-types/payloads/v8/auditLog.d.ts",
       "../node_modules/discord-api-types/payloads/v8/channel.d.ts",
       "../node_modules/discord-api-types/payloads/v8/emoji.d.ts",
       "../node_modules/discord-api-types/payloads/v8/gateway.d.ts",
@@ -2809,7 +2809,7 @@
       "../node_modules/discord-api-types/payloads/v8/voice.d.ts",
       "../node_modules/discord-api-types/payloads/v8/webhook.d.ts",
       "../node_modules/discord-api-types/rest/common.d.ts",
-      "../node_modules/discord-api-types/rest/v8/auditlog.d.ts",
+      "../node_modules/discord-api-types/rest/v8/auditLog.d.ts",
       "../node_modules/discord-api-types/rest/v8/channel.d.ts",
       "../node_modules/discord-api-types/rest/v8/emoji.d.ts",
       "../node_modules/discord-api-types/rest/v8/gateway.d.ts",
@@ -2826,19 +2826,19 @@
       "../node_modules/discord-api-types/utils/v8.d.ts",
       "../node_modules/discord-api-types/v8.d.ts",
       "../node_modules/discord.js/typings/index.d.ts",
-      "../node_modules/jest-diff/build/cleanupsemantic.d.ts",
-      "../node_modules/jest-diff/build/difflines.d.ts",
+      "../node_modules/jest-diff/build/cleanupSemantic.d.ts",
+      "../node_modules/jest-diff/build/diffLines.d.ts",
       "../node_modules/jest-diff/build/index.d.ts",
-      "../node_modules/jest-diff/build/printdiffs.d.ts",
+      "../node_modules/jest-diff/build/printDiffs.d.ts",
       "../node_modules/jest-diff/build/types.d.ts",
       "../node_modules/lexure/dist/types/args.d.ts",
       "../node_modules/lexure/dist/types/index.d.ts",
       "../node_modules/lexure/dist/types/lexer.d.ts",
-      "../node_modules/lexure/dist/types/loopaction.d.ts",
+      "../node_modules/lexure/dist/types/loopAction.d.ts",
       "../node_modules/lexure/dist/types/loops.d.ts",
       "../node_modules/lexure/dist/types/option.d.ts",
       "../node_modules/lexure/dist/types/parser.d.ts",
-      "../node_modules/lexure/dist/types/parseroutput.d.ts",
+      "../node_modules/lexure/dist/types/parserOutput.d.ts",
       "../node_modules/lexure/dist/types/result.d.ts",
       "../node_modules/lexure/dist/types/tokens.d.ts",
       "../node_modules/lexure/dist/types/unordered.d.ts",
@@ -2954,19 +2954,19 @@
       "../node_modules/typescript/lib/lib.esnext.promise.d.ts",
       "../node_modules/typescript/lib/lib.esnext.string.d.ts",
       "../node_modules/typescript/lib/lib.esnext.weakref.d.ts",
-      "../src/events/slashcommandrawinteractioncreate.ts",
-      "../src/events/slashcommandready.ts",
+      "../src/events/SlashCommandRawInteractionCreate.ts",
+      "../src/events/SlashCommandReady.ts",
       "../src/index.ts",
-      "../src/lib/structures/builders/assertions.ts",
-      "../src/lib/structures/builders/slashcommandbuilder.ts",
-      "../src/lib/structures/builders/slashcommandoptions.ts",
-      "../src/lib/structures/builders/slashcommandsubcommands.ts",
-      "../src/lib/structures/extensions/slashcommandpreconditioncontainerextensions.ts",
-      "../src/lib/structures/extensions/slashcommandpreconditionstore.ts",
-      "../src/lib/structures/interactions/slashcommandargs.ts",
-      "../src/lib/structures/interactions/slashcommandinteraction.ts",
-      "../src/lib/utils/events.ts",
-      "../src/lib/utils/symbols.ts",
+      "../src/lib/structures/builders/Assertions.ts",
+      "../src/lib/structures/builders/SlashCommandBuilder.ts",
+      "../src/lib/structures/builders/SlashCommandOptions.ts",
+      "../src/lib/structures/builders/SlashCommandSubCommands.ts",
+      "../src/lib/structures/extensions/SlashCommandPreconditionContainerExtensions.ts",
+      "../src/lib/structures/extensions/SlashCommandPreconditionStore.ts",
+      "../src/lib/structures/interactions/SlashCommandArgs.ts",
+      "../src/lib/structures/interactions/SlashCommandInteraction.ts",
+      "../src/lib/utils/Events.ts",
+      "../src/lib/utils/Symbols.ts",
       "../src/register-discordjs.ts"
     ]
   },
