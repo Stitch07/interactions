@@ -216,9 +216,14 @@
         "signature": "ea7abf23498b7c214c67fc14f22f41983fbb7bf7c4826c7fcdef542b2022545f",
         "affectsGlobalScope": false
       },
+      "../node_modules/@types/node/assert/strict.d.ts": {
+        "version": "c7bdc99177a2a94d25fb13722adaaf5b3291bf70b4d1b27584ba189dd3889ba3",
+        "signature": "c7bdc99177a2a94d25fb13722adaaf5b3291bf70b4d1b27584ba189dd3889ba3",
+        "affectsGlobalScope": false
+      },
       "../node_modules/@types/node/globals.d.ts": {
-        "version": "25b4a0c4fab47c373ee49df4c239826ee3430019fc0c1b5e59edc3e398b7468d",
-        "signature": "25b4a0c4fab47c373ee49df4c239826ee3430019fc0c1b5e59edc3e398b7468d",
+        "version": "5402314c88d0127f63f94a0272f79e04ea0fc010ff6da6613807504c4163a1ad",
+        "signature": "5402314c88d0127f63f94a0272f79e04ea0fc010ff6da6613807504c4163a1ad",
         "affectsGlobalScope": true
       },
       "../node_modules/@types/node/async_hooks.d.ts": {
@@ -252,8 +257,8 @@
         "affectsGlobalScope": false
       },
       "../node_modules/@types/node/crypto.d.ts": {
-        "version": "0084b54e281a37c75079f92ca20603d5731de063e7a425852b2907de4dd19932",
-        "signature": "0084b54e281a37c75079f92ca20603d5731de063e7a425852b2907de4dd19932",
+        "version": "51a77d65fbadc93dcdf454ea1d94bd9f1f146008d890bea4f168dd397192b9fb",
+        "signature": "51a77d65fbadc93dcdf454ea1d94bd9f1f146008d890bea4f168dd397192b9fb",
         "affectsGlobalScope": false
       },
       "../node_modules/@types/node/dgram.d.ts": {
@@ -262,8 +267,13 @@
         "affectsGlobalScope": false
       },
       "../node_modules/@types/node/dns.d.ts": {
-        "version": "bc31e01146eec89eb870b9ad8c55d759bcbc8989a894e6f0f81f832e0d10eb04",
-        "signature": "bc31e01146eec89eb870b9ad8c55d759bcbc8989a894e6f0f81f832e0d10eb04",
+        "version": "ec7dafafe751a5121f8f1c80201ebe7e7238c47e6329280a73c4d1ca4bb7fa28",
+        "signature": "ec7dafafe751a5121f8f1c80201ebe7e7238c47e6329280a73c4d1ca4bb7fa28",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/node/dns/promises.d.ts": {
+        "version": "64debeb10e4b7ae4ec9e89bfb4e04c6101ab98c3cc806d14e5488607cfec2753",
+        "signature": "64debeb10e4b7ae4ec9e89bfb4e04c6101ab98c3cc806d14e5488607cfec2753",
         "affectsGlobalScope": false
       },
       "../node_modules/@types/node/domain.d.ts": {
@@ -272,13 +282,13 @@
         "affectsGlobalScope": true
       },
       "../node_modules/@types/node/events.d.ts": {
-        "version": "153d835dc32985120790e10102834b0a5bd979bb5e42bfbb33c0ff6260cf03ce",
-        "signature": "153d835dc32985120790e10102834b0a5bd979bb5e42bfbb33c0ff6260cf03ce",
+        "version": "36ba0e764ace4fb55e6165c5f33f2826f88b1d3767f7ec658fe2f6c85ac5e776",
+        "signature": "36ba0e764ace4fb55e6165c5f33f2826f88b1d3767f7ec658fe2f6c85ac5e776",
         "affectsGlobalScope": true
       },
       "../node_modules/@types/node/fs.d.ts": {
-        "version": "a44c87a409b60f211a240341905d818f5f173420dcf7f989ee6c8a1a3d812ae9",
-        "signature": "a44c87a409b60f211a240341905d818f5f173420dcf7f989ee6c8a1a3d812ae9",
+        "version": "d3315298050252531e7db9046296ca2162fa5218a85b10a62ed79140e3822e3c",
+        "signature": "d3315298050252531e7db9046296ca2162fa5218a85b10a62ed79140e3822e3c",
         "affectsGlobalScope": false
       },
       "../node_modules/@types/node/fs/promises.d.ts": {
@@ -287,13 +297,13 @@
         "affectsGlobalScope": false
       },
       "../node_modules/@types/node/http.d.ts": {
-        "version": "dce8672a79c7221c10a355b905940ab57505bc480a72a5da33ba24cbf82bb75c",
-        "signature": "dce8672a79c7221c10a355b905940ab57505bc480a72a5da33ba24cbf82bb75c",
+        "version": "bd311ff12ac011f5531edd217189606e7a697376d6109e8a18361358f6249b46",
+        "signature": "bd311ff12ac011f5531edd217189606e7a697376d6109e8a18361358f6249b46",
         "affectsGlobalScope": false
       },
       "../node_modules/@types/node/http2.d.ts": {
-        "version": "321ea733ae7f611077a2d7b4bc378ac4a6b7e365e1a51c71a7e5b2818e1e310a",
-        "signature": "321ea733ae7f611077a2d7b4bc378ac4a6b7e365e1a51c71a7e5b2818e1e310a",
+        "version": "a870e564e578dccc7b34018d6919f9466bae462b4bafc3449ca63a2331ac27c5",
+        "signature": "a870e564e578dccc7b34018d6919f9466bae462b4bafc3449ca63a2331ac27c5",
         "affectsGlobalScope": false
       },
       "../node_modules/@types/node/https.d.ts": {
@@ -312,8 +322,8 @@
         "affectsGlobalScope": false
       },
       "../node_modules/@types/node/net.d.ts": {
-        "version": "40b957b502b40dd490ee334aed47a30636f8d14a0267d1b6c088c2be1dcf2757",
-        "signature": "40b957b502b40dd490ee334aed47a30636f8d14a0267d1b6c088c2be1dcf2757",
+        "version": "1eaf8fecdae37cc4c85f496d2bdb9e8d46c21b3643b7e27d3646a330585515a5",
+        "signature": "1eaf8fecdae37cc4c85f496d2bdb9e8d46c21b3643b7e27d3646a330585515a5",
         "affectsGlobalScope": false
       },
       "../node_modules/@types/node/os.d.ts": {
@@ -332,8 +342,8 @@
         "affectsGlobalScope": false
       },
       "../node_modules/@types/node/process.d.ts": {
-        "version": "b0b00cf2e8107ab671243a73d2fbd6296a853bebe3fcfaaca293f65aaa245eaf",
-        "signature": "b0b00cf2e8107ab671243a73d2fbd6296a853bebe3fcfaaca293f65aaa245eaf",
+        "version": "61977e8f4c042abd392645828c90afd1b551a6fd32c51b93717c68003ce7c983",
+        "signature": "61977e8f4c042abd392645828c90afd1b551a6fd32c51b93717c68003ce7c983",
         "affectsGlobalScope": true
       },
       "../node_modules/@types/node/punycode.d.ts": {
@@ -357,8 +367,13 @@
         "affectsGlobalScope": false
       },
       "../node_modules/@types/node/stream.d.ts": {
-        "version": "e7b5a3f40f19d9eea71890c70dfb37ac5dd82cbffe5f95bc8f23c536455732d0",
-        "signature": "e7b5a3f40f19d9eea71890c70dfb37ac5dd82cbffe5f95bc8f23c536455732d0",
+        "version": "3b02b1e3c3a6730d79e2c8652f3be6a7caef1a604b9c5103abbbcea921694be1",
+        "signature": "3b02b1e3c3a6730d79e2c8652f3be6a7caef1a604b9c5103abbbcea921694be1",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/node/stream/promises.d.ts": {
+        "version": "fd2298fba0640e7295e7bd545e2dfbfcccbb00c27019e501c87965a02bbdebf6",
+        "signature": "fd2298fba0640e7295e7bd545e2dfbfcccbb00c27019e501c87965a02bbdebf6",
         "affectsGlobalScope": false
       },
       "../node_modules/@types/node/string_decoder.d.ts": {
@@ -367,8 +382,13 @@
         "affectsGlobalScope": false
       },
       "../node_modules/@types/node/timers.d.ts": {
-        "version": "0953427f9c2498f71dd912fdd8a81b19cf6925de3e1ad67ab9a77b9a0f79bf0b",
-        "signature": "0953427f9c2498f71dd912fdd8a81b19cf6925de3e1ad67ab9a77b9a0f79bf0b",
+        "version": "f49709e8c096b05aca0674d39f471aa05261de7c756df9abdf4a53ed0fa98901",
+        "signature": "f49709e8c096b05aca0674d39f471aa05261de7c756df9abdf4a53ed0fa98901",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/node/timers/promises.d.ts": {
+        "version": "baca27d1de400e027cdc70217ca73e414002baef5798aa24a921097c20066fa1",
+        "signature": "baca27d1de400e027cdc70217ca73e414002baef5798aa24a921097c20066fa1",
         "affectsGlobalScope": false
       },
       "../node_modules/@types/node/tls.d.ts": {
@@ -407,8 +427,8 @@
         "affectsGlobalScope": false
       },
       "../node_modules/@types/node/worker_threads.d.ts": {
-        "version": "6c63cb179eda2be5ab45dc146fa4151bec8ce4781986935fe40adfc69cbbf214",
-        "signature": "6c63cb179eda2be5ab45dc146fa4151bec8ce4781986935fe40adfc69cbbf214",
+        "version": "1535aeef6e803bc8c784b14c99bd214dba9223df4914f3dee616af351ab46042",
+        "signature": "1535aeef6e803bc8c784b14c99bd214dba9223df4914f3dee616af351ab46042",
         "affectsGlobalScope": false
       },
       "../node_modules/@types/node/zlib.d.ts": {
@@ -427,8 +447,8 @@
         "affectsGlobalScope": false
       },
       "../node_modules/@types/node/ts3.6/base.d.ts": {
-        "version": "ae68a04912ee5a0f589276f9ec60b095f8c40d48128a4575b3fdd7d93806931c",
-        "signature": "ae68a04912ee5a0f589276f9ec60b095f8c40d48128a4575b3fdd7d93806931c",
+        "version": "210ef68f34baca2a4499c07a51f05d51b4f0ef01d64efea3017cb3bc31c37e33",
+        "signature": "210ef68f34baca2a4499c07a51f05d51b4f0ef01d64efea3017cb3bc31c37e33",
         "affectsGlobalScope": false
       },
       "../node_modules/@types/node/assert.d.ts": {
@@ -442,8 +462,8 @@
         "affectsGlobalScope": false
       },
       "../node_modules/@types/node/index.d.ts": {
-        "version": "6c137dee82a61e14a1eb6a0ba56925b66fd83abf15acf72fe59a10b15e80e319",
-        "signature": "6c137dee82a61e14a1eb6a0ba56925b66fd83abf15acf72fe59a10b15e80e319",
+        "version": "6c9c7e459e013ddf52c70b90f88bbdd925e483ef984d80f9bffb501029974e82",
+        "signature": "6c9c7e459e013ddf52c70b90f88bbdd925e483ef984d80f9bffb501029974e82",
         "affectsGlobalScope": false
       },
       "../node_modules/@discordjs/collection/dist/index.d.ts": {
@@ -527,178 +547,178 @@
         "affectsGlobalScope": false
       },
       "../node_modules/discord-api-types/globals.d.ts": {
-        "version": "5670862fc76f980129fcc8204a0a9a934698c8c3e50856c6442d1117df08a1af",
-        "signature": "5670862fc76f980129fcc8204a0a9a934698c8c3e50856c6442d1117df08a1af",
+        "version": "015d0422c54d4a3845748878dfdc6143baaee3931d7de0e988c3d770de1e69c4",
+        "signature": "015d0422c54d4a3845748878dfdc6143baaee3931d7de0e988c3d770de1e69c4",
         "affectsGlobalScope": false
       },
       "../node_modules/discord-api-types/payloads/v8/permissions.d.ts": {
-        "version": "d286b5d3ca812959c969842f16aeeb9e0da68fc62b508437f83b2d9dca94eae7",
-        "signature": "d286b5d3ca812959c969842f16aeeb9e0da68fc62b508437f83b2d9dca94eae7",
+        "version": "2a4da834268f1277dfd0b72976accaa8746004eb02f15492bd699e052b3cf0d0",
+        "signature": "2a4da834268f1277dfd0b72976accaa8746004eb02f15492bd699e052b3cf0d0",
         "affectsGlobalScope": false
       },
       "../node_modules/discord-api-types/payloads/v8/gateway.d.ts": {
-        "version": "61c36954d3e28ceabacb804aa36f839fd145fe6b2bd317e6a103c3c0415f70bc",
-        "signature": "61c36954d3e28ceabacb804aa36f839fd145fe6b2bd317e6a103c3c0415f70bc",
+        "version": "04000f882b81a77a3b3eeb509245a481db331f1ffc6c66a62068875a921f8421",
+        "signature": "04000f882b81a77a3b3eeb509245a481db331f1ffc6c66a62068875a921f8421",
         "affectsGlobalScope": false
       },
       "../node_modules/discord-api-types/payloads/v8/voice.d.ts": {
-        "version": "f81a310f1755bc55ca8e32f85a534dc950a77f12bba02d54c43e268a685cbe56",
-        "signature": "f81a310f1755bc55ca8e32f85a534dc950a77f12bba02d54c43e268a685cbe56",
+        "version": "5b269e837fed4bb90c8c8e57f3d8e6dec7de2b8b79cbe67cf5df0b6a9d35d76c",
+        "signature": "5b269e837fed4bb90c8c8e57f3d8e6dec7de2b8b79cbe67cf5df0b6a9d35d76c",
         "affectsGlobalScope": false
       },
       "../node_modules/discord-api-types/payloads/v8/guild.d.ts": {
-        "version": "cddfecd910f7a62e46fd8c95fbd9ec09d5f37a331e16428b52a1fb57254d00fb",
-        "signature": "cddfecd910f7a62e46fd8c95fbd9ec09d5f37a331e16428b52a1fb57254d00fb",
+        "version": "595b8628d7bc38b216b2c3812ac8b8919752941d518ebe25f0888cc1ce7d5ffb",
+        "signature": "595b8628d7bc38b216b2c3812ac8b8919752941d518ebe25f0888cc1ce7d5ffb",
         "affectsGlobalScope": false
       },
       "../node_modules/discord-api-types/payloads/v8/user.d.ts": {
-        "version": "9d8c7a8a04e0506aede62bdf8bc322bdb1b6b0469b3313da976a83b432dd6865",
-        "signature": "9d8c7a8a04e0506aede62bdf8bc322bdb1b6b0469b3313da976a83b432dd6865",
+        "version": "b64a7bb54fd8c427126d8d417c47ac018fbb287750dfd57df42b229d2619a8c3",
+        "signature": "b64a7bb54fd8c427126d8d417c47ac018fbb287750dfd57df42b229d2619a8c3",
         "affectsGlobalScope": false
       },
       "../node_modules/discord-api-types/payloads/v8/emoji.d.ts": {
-        "version": "681f35c141c7a6201d5ffc038fbc28e46fb7a8702fc52b29d2d2dc7ca03328c2",
-        "signature": "681f35c141c7a6201d5ffc038fbc28e46fb7a8702fc52b29d2d2dc7ca03328c2",
+        "version": "3f783651ef4686f9e128ac588b2bfa5405fac163e23cb54a5126eca6064efa55",
+        "signature": "3f783651ef4686f9e128ac588b2bfa5405fac163e23cb54a5126eca6064efa55",
         "affectsGlobalScope": false
       },
       "../node_modules/discord-api-types/rest/common.d.ts": {
-        "version": "475320b8c7ed832375a810c6e44f0547facdca15e850ae2f8858182cf1e31a1b",
-        "signature": "475320b8c7ed832375a810c6e44f0547facdca15e850ae2f8858182cf1e31a1b",
+        "version": "85b465907a43e2ccff7a41bddd363f76d005f6d4d23bd10c6c32ab69551ae4b4",
+        "signature": "85b465907a43e2ccff7a41bddd363f76d005f6d4d23bd10c6c32ab69551ae4b4",
         "affectsGlobalScope": false
       },
       "../node_modules/discord-api-types/rest/v8/auditLog.d.ts": {
-        "version": "8e8da3a50207a1cb1baee99e54c409491707989fdbe197b1f44a2d126b851a9d",
-        "signature": "8e8da3a50207a1cb1baee99e54c409491707989fdbe197b1f44a2d126b851a9d",
+        "version": "0b10b5f049f4906831d76244b53aaf49fc2ca8aeee21716b25853c46aa3f8b38",
+        "signature": "0b10b5f049f4906831d76244b53aaf49fc2ca8aeee21716b25853c46aa3f8b38",
         "affectsGlobalScope": false
       },
       "../node_modules/discord-api-types/rest/v8/channel.d.ts": {
-        "version": "dc5b6c136c725541863621e6ba229eb7de3987c940fd46d8a64cc539681a6f89",
-        "signature": "dc5b6c136c725541863621e6ba229eb7de3987c940fd46d8a64cc539681a6f89",
+        "version": "d86c58da42d402363835e80755661956b7bfa149c592494f73c94ec2f1bcc0b6",
+        "signature": "d86c58da42d402363835e80755661956b7bfa149c592494f73c94ec2f1bcc0b6",
         "affectsGlobalScope": false
       },
       "../node_modules/discord-api-types/rest/v8/emoji.d.ts": {
-        "version": "caae99aaf9dc2918dd8d9f6e1116dea87ae509ef529e460dde3157ab8c9a85a6",
-        "signature": "caae99aaf9dc2918dd8d9f6e1116dea87ae509ef529e460dde3157ab8c9a85a6",
+        "version": "6d960896f01f41ecf92d108165d5f755dc6fa2a1f0ec813a3613f3e39020e4b3",
+        "signature": "6d960896f01f41ecf92d108165d5f755dc6fa2a1f0ec813a3613f3e39020e4b3",
         "affectsGlobalScope": false
       },
       "../node_modules/discord-api-types/rest/v8/gateway.d.ts": {
-        "version": "5a838a40eff0b02b0cdf247e81a31ef2d7f73032914ddb7827a4220e0b81e116",
-        "signature": "5a838a40eff0b02b0cdf247e81a31ef2d7f73032914ddb7827a4220e0b81e116",
+        "version": "a597c5c5dcd98194ce0267bcb72bb490bc4ff0fd3d18692b63c5e37f469f6984",
+        "signature": "a597c5c5dcd98194ce0267bcb72bb490bc4ff0fd3d18692b63c5e37f469f6984",
         "affectsGlobalScope": false
       },
       "../node_modules/discord-api-types/rest/v8/guild.d.ts": {
-        "version": "f84235492b3730410b4f51185335f211fc737ba56d4b1be776af64930a825d9b",
-        "signature": "f84235492b3730410b4f51185335f211fc737ba56d4b1be776af64930a825d9b",
+        "version": "3aa0ef3eb48ebcd210a6c6287953b21bde1d90797b3892cf5a63a0a9aaff2618",
+        "signature": "3aa0ef3eb48ebcd210a6c6287953b21bde1d90797b3892cf5a63a0a9aaff2618",
         "affectsGlobalScope": false
       },
       "../node_modules/discord-api-types/rest/v8/interactions.d.ts": {
-        "version": "79e80ea1238a6e5f2eb078746732b006be61d89709e1befd672418f740026bbd",
-        "signature": "79e80ea1238a6e5f2eb078746732b006be61d89709e1befd672418f740026bbd",
+        "version": "47eca149b53dbe56805fe8ccf5ebb56fca0f8969caac655b51c5d3b4c6a92b0a",
+        "signature": "47eca149b53dbe56805fe8ccf5ebb56fca0f8969caac655b51c5d3b4c6a92b0a",
         "affectsGlobalScope": false
       },
       "../node_modules/discord-api-types/rest/v8/invite.d.ts": {
-        "version": "57ae2baddf647c6db0f0a290707ecad3175eea6ae1aacf8f3bace7af099bc89f",
-        "signature": "57ae2baddf647c6db0f0a290707ecad3175eea6ae1aacf8f3bace7af099bc89f",
+        "version": "1b5d54d7d8e755207dd206a1e39c6b3819c84d06ef9997a13a63de1f149c5350",
+        "signature": "1b5d54d7d8e755207dd206a1e39c6b3819c84d06ef9997a13a63de1f149c5350",
         "affectsGlobalScope": false
       },
       "../node_modules/discord-api-types/rest/v8/oauth2.d.ts": {
-        "version": "a25649b1068089e32ff3d52bb9375cd96594707813a1119dbabd0af1b5bccf69",
-        "signature": "a25649b1068089e32ff3d52bb9375cd96594707813a1119dbabd0af1b5bccf69",
+        "version": "6005987c56f35797f892e09a7f74a8c0f4556206ff3b153b3b827b48fce4bba8",
+        "signature": "6005987c56f35797f892e09a7f74a8c0f4556206ff3b153b3b827b48fce4bba8",
         "affectsGlobalScope": false
       },
       "../node_modules/discord-api-types/rest/v8/template.d.ts": {
-        "version": "534b0a881d980b7a50ac6837a7db2f9d222727a93161a31e606823b8cd5f64e3",
-        "signature": "534b0a881d980b7a50ac6837a7db2f9d222727a93161a31e606823b8cd5f64e3",
+        "version": "e3430b9a1253bdabb5448a86cf04141e3fabfdfaf94e52ecaaeae3b785d43d0a",
+        "signature": "e3430b9a1253bdabb5448a86cf04141e3fabfdfaf94e52ecaaeae3b785d43d0a",
         "affectsGlobalScope": false
       },
       "../node_modules/discord-api-types/rest/v8/user.d.ts": {
-        "version": "348fee85e4025facef0cdd31a7093351f293508acf2d906b53b37ccb32da9df6",
-        "signature": "348fee85e4025facef0cdd31a7093351f293508acf2d906b53b37ccb32da9df6",
+        "version": "a24e2edff61725af9ae20ae2490fb1216d3759c6ac305d59718806317579a444",
+        "signature": "a24e2edff61725af9ae20ae2490fb1216d3759c6ac305d59718806317579a444",
         "affectsGlobalScope": false
       },
       "../node_modules/discord-api-types/rest/v8/voice.d.ts": {
-        "version": "e7f3bbf89bd55bf176f0a0ad2c885b021a85c64538f1e63a89a0d2f602e76558",
-        "signature": "e7f3bbf89bd55bf176f0a0ad2c885b021a85c64538f1e63a89a0d2f602e76558",
+        "version": "6f354b30f17d75ca2ebb19fe1b5de627383056328a97e6e932732a8f685c16e5",
+        "signature": "6f354b30f17d75ca2ebb19fe1b5de627383056328a97e6e932732a8f685c16e5",
         "affectsGlobalScope": false
       },
       "../node_modules/discord-api-types/rest/v8/webhook.d.ts": {
-        "version": "9ef692f44bddb9c25d10979415a08ab2ea4ab1c93bd1dfd2b218803b311ac1a6",
-        "signature": "9ef692f44bddb9c25d10979415a08ab2ea4ab1c93bd1dfd2b218803b311ac1a6",
+        "version": "ec5825dcc8909ef9898bcaf0045eca796d75fd0909c8dc23f30fd49a8f54a2b2",
+        "signature": "ec5825dcc8909ef9898bcaf0045eca796d75fd0909c8dc23f30fd49a8f54a2b2",
         "affectsGlobalScope": false
       },
       "../node_modules/discord-api-types/rest/v8/index.d.ts": {
-        "version": "8095afc768098704de657257029b12a2f761662798fac458c6b24fb8fe1cb3cb",
-        "signature": "8095afc768098704de657257029b12a2f761662798fac458c6b24fb8fe1cb3cb",
+        "version": "2c561e70953b9cf593c136d77addd06795ea4ff1e7dfba0042abd4b01c39ce92",
+        "signature": "2c561e70953b9cf593c136d77addd06795ea4ff1e7dfba0042abd4b01c39ce92",
         "affectsGlobalScope": false
       },
       "../node_modules/discord-api-types/payloads/v8/interactions.d.ts": {
-        "version": "97846549f597de4c3228c75fdab87084679ff7f61e67b3297d861e71531b0dab",
-        "signature": "97846549f597de4c3228c75fdab87084679ff7f61e67b3297d861e71531b0dab",
+        "version": "0170e8225639b432a57a925f89796b318879696de8ae29133bf153f1d646c571",
+        "signature": "0170e8225639b432a57a925f89796b318879696de8ae29133bf153f1d646c571",
         "affectsGlobalScope": false
       },
       "../node_modules/discord-api-types/payloads/v8/teams.d.ts": {
-        "version": "310b2a909c867a41f41215740acd21620caa0d1409c486cfdfba123d6f80b21d",
-        "signature": "310b2a909c867a41f41215740acd21620caa0d1409c486cfdfba123d6f80b21d",
+        "version": "63470b04fb275b530b4677fe1f6d3a1583e3a8795c626893a34ebdd2898386b9",
+        "signature": "63470b04fb275b530b4677fe1f6d3a1583e3a8795c626893a34ebdd2898386b9",
         "affectsGlobalScope": false
       },
       "../node_modules/discord-api-types/payloads/v8/oauth2.d.ts": {
-        "version": "a62e06133e83b2983794df389b2958ca993f85cc193c727fd5f7ccee0cbdc510",
-        "signature": "a62e06133e83b2983794df389b2958ca993f85cc193c727fd5f7ccee0cbdc510",
+        "version": "5f9fa306103a7fdc8e4854f2ddcb65fd8ce6089dd8c79278d2ac4905e4ed0f4a",
+        "signature": "5f9fa306103a7fdc8e4854f2ddcb65fd8ce6089dd8c79278d2ac4905e4ed0f4a",
         "affectsGlobalScope": false
       },
       "../node_modules/discord-api-types/payloads/v8/channel.d.ts": {
-        "version": "eedc84c5ed0c33f5ab0cacdc8681b74207c7c2162eb2219bb916468e6b5cd9f2",
-        "signature": "eedc84c5ed0c33f5ab0cacdc8681b74207c7c2162eb2219bb916468e6b5cd9f2",
+        "version": "98df0eb9c3a74624ab184f468fcbb213ab3e5e9595300cee943e8da95b43e175",
+        "signature": "98df0eb9c3a74624ab184f468fcbb213ab3e5e9595300cee943e8da95b43e175",
         "affectsGlobalScope": false
       },
       "../node_modules/discord-api-types/payloads/v8/webhook.d.ts": {
-        "version": "883578ad55b202a56fbc682137dabd6c08272446adc16624da0dd629103326a8",
-        "signature": "883578ad55b202a56fbc682137dabd6c08272446adc16624da0dd629103326a8",
+        "version": "97d4b84ee8724724302a14f4d783391c0d95c9d93eb51a0ec8969123b62efb5c",
+        "signature": "97d4b84ee8724724302a14f4d783391c0d95c9d93eb51a0ec8969123b62efb5c",
         "affectsGlobalScope": false
       },
       "../node_modules/discord-api-types/payloads/v8/auditLog.d.ts": {
-        "version": "db65b4d74414d210abc1122c16ef9d954d726dc8f0639c2f0fdc391f57a3188f",
-        "signature": "db65b4d74414d210abc1122c16ef9d954d726dc8f0639c2f0fdc391f57a3188f",
+        "version": "eb78ecaa80cd56a887551736e9f337adaa0d3b24cd48350c2ee4df0f6813f921",
+        "signature": "eb78ecaa80cd56a887551736e9f337adaa0d3b24cd48350c2ee4df0f6813f921",
         "affectsGlobalScope": false
       },
       "../node_modules/discord-api-types/payloads/v8/invite.d.ts": {
-        "version": "cee0c9f763748f7801aa1a860085574104cd6d511db5caf5ead73c441ff6dd8b",
-        "signature": "cee0c9f763748f7801aa1a860085574104cd6d511db5caf5ead73c441ff6dd8b",
+        "version": "78ad6ca5564cf0041ec2c505161bb71c89840bc9d3e3be1093b238f34fa15a19",
+        "signature": "78ad6ca5564cf0041ec2c505161bb71c89840bc9d3e3be1093b238f34fa15a19",
         "affectsGlobalScope": false
       },
       "../node_modules/discord-api-types/payloads/v8/template.d.ts": {
-        "version": "740959695a944ea34fa717beb648676609bc889cbe99188f1f30d96bf6deccf8",
-        "signature": "740959695a944ea34fa717beb648676609bc889cbe99188f1f30d96bf6deccf8",
+        "version": "7b69f95c4182a6e464d05ab28496234c31550d410f76f608c02fc5fcbd58c184",
+        "signature": "7b69f95c4182a6e464d05ab28496234c31550d410f76f608c02fc5fcbd58c184",
         "affectsGlobalScope": false
       },
       "../node_modules/discord-api-types/payloads/v8/index.d.ts": {
-        "version": "a5d32f99a048855377aad8f0fb489a2acd9b1c056dfaa05811fecd4c46606d4b",
-        "signature": "a5d32f99a048855377aad8f0fb489a2acd9b1c056dfaa05811fecd4c46606d4b",
+        "version": "7527a429b451702da9954065786702cbe48f8ebe8471dc653a5accc0e6eba5c1",
+        "signature": "7527a429b451702da9954065786702cbe48f8ebe8471dc653a5accc0e6eba5c1",
         "affectsGlobalScope": false
       },
       "../node_modules/discord-api-types/gateway/common.d.ts": {
-        "version": "bad7ce18863ea540ea1b6a908f14bb407eeb8ba629f5daed791740cf6512c10e",
-        "signature": "bad7ce18863ea540ea1b6a908f14bb407eeb8ba629f5daed791740cf6512c10e",
+        "version": "518fdf30b58a81043de3c889e2c1fb271ed6e26aa40bacd557cb439046c22439",
+        "signature": "518fdf30b58a81043de3c889e2c1fb271ed6e26aa40bacd557cb439046c22439",
         "affectsGlobalScope": false
       },
       "../node_modules/discord-api-types/gateway/v8.d.ts": {
-        "version": "233cae30cde9d21f7a55de65349c80de19b3abfc765b76c7b82312bf98034cb0",
-        "signature": "233cae30cde9d21f7a55de65349c80de19b3abfc765b76c7b82312bf98034cb0",
+        "version": "18599c108ea0967a8f6b56c3828b2d1f89970e7ce27fdb9a2753aaa3c6b0c297",
+        "signature": "18599c108ea0967a8f6b56c3828b2d1f89970e7ce27fdb9a2753aaa3c6b0c297",
         "affectsGlobalScope": false
       },
       "../node_modules/discord-api-types/rpc/v8.d.ts": {
-        "version": "6c2a99ca684318cba1aa23d1369d0913a941635beff9a56be125cac75553f89e",
-        "signature": "6c2a99ca684318cba1aa23d1369d0913a941635beff9a56be125cac75553f89e",
+        "version": "52e0f79f30216cf458fd984c2558be42df9224c1cfe2a386a9ae4ad5e905a8ef",
+        "signature": "52e0f79f30216cf458fd984c2558be42df9224c1cfe2a386a9ae4ad5e905a8ef",
         "affectsGlobalScope": false
       },
       "../node_modules/discord-api-types/utils/v8.d.ts": {
-        "version": "e17a68f648fea86ef04bdf6e126302a5415f869d3002b4ee570b11775a6edc11",
-        "signature": "e17a68f648fea86ef04bdf6e126302a5415f869d3002b4ee570b11775a6edc11",
+        "version": "4758a19af8ffa78d873657eb3bd549f19af5a08b0108b66feb28281a0ba618ff",
+        "signature": "4758a19af8ffa78d873657eb3bd549f19af5a08b0108b66feb28281a0ba618ff",
         "affectsGlobalScope": false
       },
       "../node_modules/discord-api-types/v8.d.ts": {
-        "version": "3245264b4813d4233962be8a0c6a45423ac4a923faf42c39a968a0e619faec00",
-        "signature": "3245264b4813d4233962be8a0c6a45423ac4a923faf42c39a968a0e619faec00",
+        "version": "fbdf90cbd1fd09dc3e6b349aad9378be0d00a22097834d1f0db35d98b9627868",
+        "signature": "fbdf90cbd1fd09dc3e6b349aad9378be0d00a22097834d1f0db35d98b9627868",
         "affectsGlobalScope": false
       },
       "../node_modules/ts-mixer/dist/types/types.d.ts": {
@@ -1321,6 +1341,9 @@
         "../node_modules/jest-diff/build/index.d.ts",
         "../node_modules/pretty-format/build/index.d.ts"
       ],
+      "../node_modules/@types/node/assert/strict.d.ts": [
+        "../node_modules/@types/node/assert.d.ts"
+      ],
       "../node_modules/@types/node/base.d.ts": [
         "../node_modules/@types/node/assert.d.ts",
         "../node_modules/@types/node/ts3.6/base.d.ts"
@@ -1351,6 +1374,12 @@
         "../node_modules/@types/node/dns.d.ts",
         "../node_modules/@types/node/events.d.ts",
         "../node_modules/@types/node/net.d.ts"
+      ],
+      "../node_modules/@types/node/dns.d.ts": [
+        "../node_modules/@types/node/dns/promises.d.ts"
+      ],
+      "../node_modules/@types/node/dns/promises.d.ts": [
+        "../node_modules/@types/node/dns.d.ts"
       ],
       "../node_modules/@types/node/domain.d.ts": [
         "../node_modules/@types/node/events.d.ts"
@@ -1415,12 +1444,20 @@
         "../node_modules/@types/node/vm.d.ts"
       ],
       "../node_modules/@types/node/stream.d.ts": [
-        "../node_modules/@types/node/events.d.ts"
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@types/node/stream/promises.d.ts"
+      ],
+      "../node_modules/@types/node/stream/promises.d.ts": [
+        "../node_modules/@types/node/stream.d.ts"
+      ],
+      "../node_modules/@types/node/timers/promises.d.ts": [
+        "../node_modules/@types/node/timers.d.ts"
       ],
       "../node_modules/@types/node/tls.d.ts": [
         "../node_modules/@types/node/net.d.ts"
       ],
       "../node_modules/@types/node/ts3.6/base.d.ts": [
+        "../node_modules/@types/node/assert/strict.d.ts",
         "../node_modules/@types/node/async_hooks.d.ts",
         "../node_modules/@types/node/buffer.d.ts",
         "../node_modules/@types/node/child_process.d.ts",
@@ -1430,6 +1467,7 @@
         "../node_modules/@types/node/crypto.d.ts",
         "../node_modules/@types/node/dgram.d.ts",
         "../node_modules/@types/node/dns.d.ts",
+        "../node_modules/@types/node/dns/promises.d.ts",
         "../node_modules/@types/node/domain.d.ts",
         "../node_modules/@types/node/events.d.ts",
         "../node_modules/@types/node/fs.d.ts",
@@ -1451,8 +1489,10 @@
         "../node_modules/@types/node/readline.d.ts",
         "../node_modules/@types/node/repl.d.ts",
         "../node_modules/@types/node/stream.d.ts",
+        "../node_modules/@types/node/stream/promises.d.ts",
         "../node_modules/@types/node/string_decoder.d.ts",
         "../node_modules/@types/node/timers.d.ts",
+        "../node_modules/@types/node/timers/promises.d.ts",
         "../node_modules/@types/node/tls.d.ts",
         "../node_modules/@types/node/trace_events.d.ts",
         "../node_modules/@types/node/tty.d.ts",
@@ -2055,6 +2095,9 @@
         "../node_modules/jest-diff/build/index.d.ts",
         "../node_modules/pretty-format/build/index.d.ts"
       ],
+      "../node_modules/@types/node/assert/strict.d.ts": [
+        "../node_modules/@types/node/assert.d.ts"
+      ],
       "../node_modules/@types/node/base.d.ts": [
         "../node_modules/@types/node/assert.d.ts",
         "../node_modules/@types/node/ts3.6/base.d.ts"
@@ -2085,6 +2128,12 @@
         "../node_modules/@types/node/dns.d.ts",
         "../node_modules/@types/node/events.d.ts",
         "../node_modules/@types/node/net.d.ts"
+      ],
+      "../node_modules/@types/node/dns.d.ts": [
+        "../node_modules/@types/node/dns/promises.d.ts"
+      ],
+      "../node_modules/@types/node/dns/promises.d.ts": [
+        "../node_modules/@types/node/dns.d.ts"
       ],
       "../node_modules/@types/node/domain.d.ts": [
         "../node_modules/@types/node/events.d.ts"
@@ -2149,12 +2198,20 @@
         "../node_modules/@types/node/vm.d.ts"
       ],
       "../node_modules/@types/node/stream.d.ts": [
-        "../node_modules/@types/node/events.d.ts"
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@types/node/stream/promises.d.ts"
+      ],
+      "../node_modules/@types/node/stream/promises.d.ts": [
+        "../node_modules/@types/node/stream.d.ts"
+      ],
+      "../node_modules/@types/node/timers/promises.d.ts": [
+        "../node_modules/@types/node/timers.d.ts"
       ],
       "../node_modules/@types/node/tls.d.ts": [
         "../node_modules/@types/node/net.d.ts"
       ],
       "../node_modules/@types/node/ts3.6/base.d.ts": [
+        "../node_modules/@types/node/assert/strict.d.ts",
         "../node_modules/@types/node/async_hooks.d.ts",
         "../node_modules/@types/node/buffer.d.ts",
         "../node_modules/@types/node/child_process.d.ts",
@@ -2164,6 +2221,7 @@
         "../node_modules/@types/node/crypto.d.ts",
         "../node_modules/@types/node/dgram.d.ts",
         "../node_modules/@types/node/dns.d.ts",
+        "../node_modules/@types/node/dns/promises.d.ts",
         "../node_modules/@types/node/domain.d.ts",
         "../node_modules/@types/node/events.d.ts",
         "../node_modules/@types/node/fs.d.ts",
@@ -2185,8 +2243,10 @@
         "../node_modules/@types/node/readline.d.ts",
         "../node_modules/@types/node/repl.d.ts",
         "../node_modules/@types/node/stream.d.ts",
+        "../node_modules/@types/node/stream/promises.d.ts",
         "../node_modules/@types/node/string_decoder.d.ts",
         "../node_modules/@types/node/timers.d.ts",
+        "../node_modules/@types/node/timers/promises.d.ts",
         "../node_modules/@types/node/tls.d.ts",
         "../node_modules/@types/node/trace_events.d.ts",
         "../node_modules/@types/node/tty.d.ts",
@@ -2739,6 +2799,7 @@
       "../node_modules/@types/minimatch/index.d.ts",
       "../node_modules/@types/minimist/index.d.ts",
       "../node_modules/@types/node/assert.d.ts",
+      "../node_modules/@types/node/assert/strict.d.ts",
       "../node_modules/@types/node/async_hooks.d.ts",
       "../node_modules/@types/node/base.d.ts",
       "../node_modules/@types/node/buffer.d.ts",
@@ -2749,6 +2810,7 @@
       "../node_modules/@types/node/crypto.d.ts",
       "../node_modules/@types/node/dgram.d.ts",
       "../node_modules/@types/node/dns.d.ts",
+      "../node_modules/@types/node/dns/promises.d.ts",
       "../node_modules/@types/node/domain.d.ts",
       "../node_modules/@types/node/events.d.ts",
       "../node_modules/@types/node/fs.d.ts",
@@ -2771,8 +2833,10 @@
       "../node_modules/@types/node/readline.d.ts",
       "../node_modules/@types/node/repl.d.ts",
       "../node_modules/@types/node/stream.d.ts",
+      "../node_modules/@types/node/stream/promises.d.ts",
       "../node_modules/@types/node/string_decoder.d.ts",
       "../node_modules/@types/node/timers.d.ts",
+      "../node_modules/@types/node/timers/promises.d.ts",
       "../node_modules/@types/node/tls.d.ts",
       "../node_modules/@types/node/trace_events.d.ts",
       "../node_modules/@types/node/ts3.6/base.d.ts",
